@@ -8,7 +8,7 @@ See the releases page for a prebuilt image.
 
 By default there is only a root user with no password.
 
-The Pinebook Pro-specific packages are taken from [Brian Salcedo](https://github.com/salcedo)'s repository [here](https://simulated.earth/archlinux/pinebookpro/aarch64/). The PKGBUILDs used can be found [here](https://github.com/salcedo/pinebookpro-PKGBUILDs).
+The Pinebook Pro-specific packages are taken from [Brian Salcedo](https://github.com/salcedo)'s repository [here](https://simulated.earth/archlinux/pinebookpro/aarch64/). The PKGBUILDs used can be found [here](https://salcedo.dev/salcedo/pinebookpro-PKGBUILDs).
 
 ## Dependencies
 This script has only been tested on an Arch x86\_64 system.
